@@ -1,0 +1,3 @@
+	Steps
+-npx create-react-app starwars
+-npm i react-router semantic-ui-react semantic-ui-css
